@@ -63,6 +63,6 @@ The information in this repository was collected from YouTube channels, LinkedIn
 
 ## Author
 
-Created by: **Zip**
+Created by: **Aqsa**
 
 Project Topic: **YouTube Content Strategy for B2B SaaS**
